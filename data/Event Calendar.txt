@@ -1,0 +1,28 @@
+Year,Event Name,Week Nr
+2024,New Year's Day,WeekNum-1
+2024,Black Friday,WeekNum-48
+2024,Epiphany,WeekNum-6
+2024,Easter Sunday,WeekNum-13
+2024 .,Black Friday,WeekNum-48
+2024,Easter Monday,WeekNum-14
+2024,Labour Day,WeekNum-18-
+2024,Christmas Day,WeekNum-52
+2024,Epiphany,WeekNum-6
+2025,New Year's Day,WeekNum-1
+2025,Epiphany,WeekNum-1
+2024,Black Friday,WeekNum-48
+2025,Easter Sunday,WeekNum-16 
+2025,Important Meeting Invites,WeekNum-10
+2025,Easter Monday,WeekNum-17
+2025,Labour Day,WeekNum-18
+2024,Cyber Monday,WeekNum-49 
+2024,Singles' Day,WeekNum-45
+2025,Black Friday,WeekNum-48
+2025,Cyber Monday,WeekNum-49
+2025,Singles' Day,WeekNum-46_
+2025,Holiday in France,WeekNum-02
+2025,Important Meeting Invite,WeekNum-10
+2025 -,Christmas,WeekNum-52
+2024,Black Fridays,WeekNum-48 
+2025,Christmas Day,WeekNum-52
+2024,Black Friday,WeekNum-48
